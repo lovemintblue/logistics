@@ -1,0 +1,17 @@
+{
+    "name": "lovemintblue\/logistics",
+    "description": "物流",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lovemintblue",
+            "email": "3041105031@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lovemintblue\\Logistics\\": "src"
+        }
+    }
+}
